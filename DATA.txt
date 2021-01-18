@@ -1,0 +1,2 @@
+We got the data for this project from kaggle.
+For data visit [here](https://www.kaggle.com/puneet6060/intel-image-classification)
